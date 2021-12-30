@@ -1,0 +1,1 @@
+# gradle-metadata-rule-issue
